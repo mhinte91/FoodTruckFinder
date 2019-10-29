@@ -1,3 +1,4 @@
+// This object calculates the current hour and current day number to be used in the foodTruckFinder.js search query.
 module.exports = {
   currentTime: function() {
     let currentDate = new Date();

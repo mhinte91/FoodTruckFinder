@@ -36,7 +36,7 @@ var foodTrucks = (module.exports = {
     count = parsedFoodTrucks.length;
     for (i = startIndex; i < endIndex && i < count; i++) {
       console.log(
-        `${parsedFoodTrucks[i].applicant.padEnd(70)}${
+        `${parsedFoodTrucks[i].applicant.padEnd(75)}${
           parsedFoodTrucks[i].location
         }`
       );

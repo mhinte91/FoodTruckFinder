@@ -6,7 +6,7 @@
 
 ## Building The Program
 
-- Simply open the project in VSCode or other similiar code editor
+- Open the project in VSCode or other similiar code editor
 - Install any necessary dependencies, and navigate to the FoodTruckFinder root folder
 
 ## Running the Program

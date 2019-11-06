@@ -5,7 +5,7 @@ module.exports = {
     let currentTime24 = currentDate
       .toLocaleTimeString('en-US', {
         hour12: false,
-        timeZone: 'America/Chicago'
+        timeZone: 'America/Los_Angeles'
       })
       .slice(0, 5);
     return currentTime24;
